@@ -1,3 +1,4 @@
 netaddr
 irrd
 boto3
+ujson>=5.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
