@@ -1,3 +1,5 @@
 netaddr
 irrd
 boto3
+ujson>=5.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
