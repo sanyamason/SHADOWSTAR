@@ -1,3 +1,6 @@
 netaddr
 irrd
 boto3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+ujson>=5.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
