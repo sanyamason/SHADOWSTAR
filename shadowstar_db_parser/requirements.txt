@@ -1,3 +1,4 @@
 netaddr
 irrd
 boto3
+starlette>=0.25.0 # not directly required, pinned by Snyk to avoid a vulnerability
